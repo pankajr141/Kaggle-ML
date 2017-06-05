@@ -7,8 +7,8 @@ Data set can be downloaded from
 https://www.kaggle.com/c/quora-question-pairs/data
 
 ## Datasets used for model training ##
-1. Google Word2Vec pretrained model 
-2. Glove Pretrained Moded
+1. Google Word2Vec [pretrained model](https://code.google.com/archive/p/word2vec/) 
+2. Glove [pretrained Model](https://nlp.stanford.edu/projects/glove)
 3. Gensim Word2Vec Implementation on quora dataset done through the script present in code.
 
 
@@ -21,3 +21,4 @@ Based on above research papers similarity is generated using  __wordnet, word2ve
 - [x] Build semantic features using word2vec and PosTags.
 - [x] Generate Model using XGB
 - [ ] Apply Reverse LSTM on the features and sentences to get indepth semantic knowledge.
+- [ ] [Latent Dirichlet Allocation](https://radimrehurek.com/gensim/wiki.html) to convert higher dimentional representation into lower dimentional.
