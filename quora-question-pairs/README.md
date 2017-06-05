@@ -1,5 +1,6 @@
 # Notes #
-The question was about finding identical set of question pair that exsit in quora.
+The question was about finding identical set of question pair that exsit in quora. A blogpost for sentence based similarity can be found https://pankajr141.wordpress.com/2017/06/05/sentence-based-similarity/
+
 ### Main link for competition ###
 https://www.kaggle.com/c/quora-question-pairs/
 
