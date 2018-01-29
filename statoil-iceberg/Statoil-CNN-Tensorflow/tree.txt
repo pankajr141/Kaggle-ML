@@ -1,0 +1,71 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 000000B0 000D:646E
+E:.
+|   .project
+|   .pydevproject
+|   README.md
+|   tree.txt
+|   
+\---statoil
+    |   convertJsonToImg.py
+    |   featureAnalysis.py
+    |   jsonToSplittableJson.py
+    |   model.py
+    |   trainCNN.py
+    |   visualize.py
+    |   __init__.py
+    |   
+    +---data
+    |       test.json
+    |       test_m.json
+    |       train.json
+    |       train_m.json
+    |       
+    \---tmp
+        \---statoil_convnet_model
+            |   checkpoint
+            |   events.out.tfevents.1516732458.DESKTOP-84L6464
+            |   events.out.tfevents.1516733855.DESKTOP-84L6464
+            |   events.out.tfevents.1516734741.DESKTOP-84L6464
+            |   events.out.tfevents.1516735367.DESKTOP-84L6464
+            |   events.out.tfevents.1516736103.DESKTOP-84L6464
+            |   events.out.tfevents.1516737872.DESKTOP-84L6464
+            |   events.out.tfevents.1516738439.DESKTOP-84L6464
+            |   events.out.tfevents.1516739574.DESKTOP-84L6464
+            |   events.out.tfevents.1516740169.DESKTOP-84L6464
+            |   events.out.tfevents.1516740384.DESKTOP-84L6464
+            |   events.out.tfevents.1516741421.DESKTOP-84L6464
+            |   events.out.tfevents.1516741652.DESKTOP-84L6464
+            |   events.out.tfevents.1516742220.DESKTOP-84L6464
+            |   graph.pbtxt
+            |   model.ckpt-14001.data-00000-of-00001
+            |   model.ckpt-14001.index
+            |   model.ckpt-14001.meta
+            |   model.ckpt-14002.data-00000-of-00001
+            |   model.ckpt-14002.index
+            |   model.ckpt-14002.meta
+            |   model.ckpt-15000.data-00000-of-00001
+            |   model.ckpt-15000.index
+            |   model.ckpt-15000.meta
+            |   model.ckpt-15001.data-00000-of-00001
+            |   model.ckpt-15001.index
+            |   model.ckpt-15001.meta
+            |   model.ckpt-16000.data-00000-of-00001
+            |   model.ckpt-16000.index
+            |   model.ckpt-16000.meta
+            |   
+            \---eval
+                    events.out.tfevents.1516732476.DESKTOP-84L6464
+                    events.out.tfevents.1516733878.DESKTOP-84L6464
+                    events.out.tfevents.1516734766.DESKTOP-84L6464
+                    events.out.tfevents.1516735390.DESKTOP-84L6464
+                    events.out.tfevents.1516736127.DESKTOP-84L6464
+                    events.out.tfevents.1516737898.DESKTOP-84L6464
+                    events.out.tfevents.1516738470.DESKTOP-84L6464
+                    events.out.tfevents.1516739605.DESKTOP-84L6464
+                    events.out.tfevents.1516740195.DESKTOP-84L6464
+                    events.out.tfevents.1516740410.DESKTOP-84L6464
+                    events.out.tfevents.1516741445.DESKTOP-84L6464
+                    events.out.tfevents.1516741678.DESKTOP-84L6464
+                    events.out.tfevents.1516742246.DESKTOP-84L6464
+                    

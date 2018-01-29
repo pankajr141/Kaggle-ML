@@ -1,0 +1,31 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 0000007D 000D:646E
+E:.
+|   .project
+|   .pydevproject
+|   README.md
+|   tree.txt
+|   
+\---statoil
+    |   __init__.py
+    |   
+    +---clf
+    |       xgb.pickle
+    |       xgb.pickle_01.npy
+    |       xgb.pickle_02.npy
+    |       
+    +---conventional
+    |   |   analyzeData.py
+    |   |   featureEngineering.py
+    |   |   model.py
+    |   |   __init__.py
+    |   |   
+    |   \---extraScripts
+    |           convertJsonToImg.py
+    |           enhanceImages.py
+    |           __init__.py
+    |           
+    \---data
+            test.json
+            train.json
+            
